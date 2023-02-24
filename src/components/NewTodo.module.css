@@ -1,0 +1,24 @@
+.text{
+    display: grid;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.textfield{
+display:grid;
+justify-self: center;
+height: 20px;
+width: 700px;
+}
+.form {
+    display: grid;
+    justify-self: center;
+    margin-left: 50;
+    
+}
+
+.button{
+height: 30px;
+width: 120px;
+justify-self: center;
+}
